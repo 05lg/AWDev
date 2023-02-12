@@ -1,0 +1,10 @@
+11/02/2023 19:13:16	This log contains information about the import schema operation into project 'AWDev' on computer 'LAKSHAY' by user 'lakshay'.
+11/02/2023 19:13:16	Deserializing model
+11/02/2023 19:13:17	Resolving model
+11/02/2023 19:13:17	Visiting imported model for types
+11/02/2023 19:13:17	Scanning project for duplicate elements
+11/02/2023 19:13:17	Finished duplicate element processing
+11/02/2023 19:13:18	Processing extra files
+11/02/2023 19:13:18	Finished importing Data-tier Application file.
+11/02/2023 19:13:18	A summary of the import was saved to the following location: C:\Users\Lakshay\Documents\AWDev\AWDev\Import Schema Logs\AWDev_20230211071316.log
+11/02/2023 19:13:18	Click Finish to continue...
